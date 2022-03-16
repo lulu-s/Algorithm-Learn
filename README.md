@@ -1,7 +1,7 @@
-# LeetCode（JavaScript 解法）
+# 算法学习记录
 
 
 
-#### ✍️ 刷题记录
+#### LeetCode（JavaScript 解法） ✍️ 刷题记录
 * [58. 最后一个单词长度](https://github.com/lulu-s/LeetCode/blob/main/leetcode/58.%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E9%95%BF%E5%BA%A6.md) - 2022.1.23
 * [66. 加一](https://github.com/lulu-s/LeetCode/blob/main/leetcode/66.%20%E5%8A%A0%E4%B8%80.md) - 2022.1.23
